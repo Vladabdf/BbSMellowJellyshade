@@ -1,0 +1,9 @@
+title: Mellow Jellyshade
+originalAuthor: Vladabdf
+description: Jellyshades are notorious for opening with their "Hurling" attack. Now they can't for the first 65 frames of combat.
+assets:
+# Should work across all game versions; PSP, PS3, PS4, all PC releases, etc.
+  - name: lua/m11ex00.lub
+    method: copy
+    source:
+    - name: lua/m11ex00.lub
